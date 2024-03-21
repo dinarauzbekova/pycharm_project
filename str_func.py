@@ -1,7 +1,5 @@
 def upper_letters():
-    """The function gets words and capitalizes all the letters in them
-
-
+    """The function gets words and capitalizes all the letters in this function
     """
     words = str(input())
     return words.upper()
